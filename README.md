@@ -1,5 +1,17 @@
 ## Oi, meu nome é Gustavo Luiz e seja bem-vindo ao meu humilde GitHub! 😁
 
+<h3 align="center">Sou um desenvolvedor estudante de programação em busca de viver do meu sonho e ser referência na minha área! 🖥️🎓</h3>
+
+- 📚 Estou estudando **HTML, CSS & JS**
+
+- 👨‍💻 Meu portfólio [https://gugatec7.github.io/Portfolio/](https://gugatec7.github.io/Portfolio/)
+
+- 📫 Email **gustavoluizsilva245@gmail.com**
+
+##
+
+
+
 <div align="center">
   <a href="https://github.com/GuGaTeC7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuGaTeC7&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>

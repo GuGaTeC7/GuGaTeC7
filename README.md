@@ -2,7 +2,7 @@
 
 <h3 align="center">Sou um desenvolvedor estudante de programação em busca de viver do meu sonho e ser referência na minha área! 🖥️🎓</h3>
 
-- 📚 Estou estudando **HTML, CSS & JS**
+- 📚 Estou estudando **Java, Spring & Desenvolvimento de API´s**
 
 - 👨‍💻 Meu portfólio [https://gugatec7.github.io/Portfolio/](https://gugatec7.github.io/Portfolio/)
 

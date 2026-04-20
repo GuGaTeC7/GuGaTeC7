@@ -1,40 +1,67 @@
-## Oi, meu nome é Gustavo Luiz e seja bem-vindo ao meu humilde GitHub! 😁
+## Gustavo Luiz
 
-<h3 align="center">Sou um desenvolvedor estudante de programação em busca de viver do meu sonho e ser referência na minha área! 🖥️🎓</h3>
+Desenvolvedor focado em sistemas web, automação de processos e construção de APIs escaláveis.
 
-- 📚 Estou estudando **Java, Spring & Desenvolvimento de API´s**
+Atuação prática no desenvolvimento de soluções para logística, desde a modelagem até o deploy e evolução do sistema.
 
-- 👨‍💻 Meu portfólio [https://gugatec7.github.io/Portfolio/](https://gugatec7.github.io/Portfolio/)
+---
 
-- 📫 Email **gustavoluizsilva245@gmail.com**
+### 🚀 Stack principal
 
-##
+* Java + Spring Boot (APIs REST)
+* Node.js (automações e processamento de dados)
+* PHP (sistemas web)
+* MySQL / PostgreSQL
 
+---
 
+### 🧠 O que eu faço
+
+* Desenvolvimento de APIs robustas e escaláveis
+* Automação de processos operacionais
+* Integração com APIs externas e serviços
+* Construção de sistemas internos para empresas
+
+---
+
+### 💼 Experiência
+
+Atualmente atuando com desenvolvimento de sistemas na área de logística, utilizando GitLab em ambiente corporativo (repositórios privados).
+
+---
+
+### 📊 Atividade (GitHub + GitLab)
+
+> Grande parte da minha atividade está em repositórios privados no GitLab.
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/GuGaTeC7" />
+</p>
+
+<!-- Substitua SEU_USUARIO pelo seu username do GitLab -->
+
+<p align="center">
+  <img src="https://gitlab-readme-stats.vercel.app/api?username=GuGaTeC7" />
+</p>
+
+---
+
+### 📌 Portfólio
+
+https://gugatec7.github.io/Portfolio/
+
+---
+
+### 📫 Contato
+
+* Email: [gustavoluizsilva245@gmail.com](mailto:gustavoluizsilva245@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/gustavoluiz1/
+
+---
+
+### 📊 Estatísticas GitHub
 
 <div>
-  <a href="https://github.com/GuGaTeC7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuGaTeC7&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGaTeC7&layout=compact&langs_count=7&theme=nord"/>
-</div>
-  
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guga-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Guga-Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/gug4_____/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavoluiz1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuGaTeC7&show_icons=true&theme=nord&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGaTeC7&layout=compact&theme=nord"/>
 </div>
